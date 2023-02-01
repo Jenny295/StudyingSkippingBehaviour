@@ -1,0 +1,56 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search engine</title>
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="css/input_style.css" />
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <script 
+      src="https://kit.fontawesome.com/9a830dfd80.js" 
+      crossorigin="anonymous"
+      ></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Poppins:wght@300;400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+</head>
+<body>
+  <section class="block container block-domain">
+    <header class="block__header">
+      <h1>S E A R C H</h1>
+    </header>
+      <form action="" method="get">
+        <div class="input-group">
+          <input
+            type="text"
+            class="input"
+            placeholder="Enter your search query..."
+          />
+          <div type="submit" class="searchBtn">
+            <button class="btn btn--accent">
+              <i class="icon icon--white fa-solid fa-magnifying-glass"></i>Search</button>
+          </div>
+        </div>
+      </form>
+
+      //results
+      <div >
+        <ul class="main results ">
+            <li data-id="docID">
+              <a href="#">
+                  <h3 class="title result"></h3>
+                  <div class="link"></div>
+              </a>
+              <a href="#"><span class="down-arrow"></span></a>
+              <p class="description"></p>
+            </li>
+        </ul>
+      </div>
+  </section>
+  <script src="script.js"></script>  
+</body>
+</html>

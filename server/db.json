@@ -1,0 +1,14 @@
+{
+  "user": [
+    {
+      "id": "234o2i34j23oij4",
+      "createdAt": "timestamp"
+    }
+  ],
+  "entries": [
+    { "position": 2, "name": "Test", "userId": "234o2i34j23oij4" },
+    { "position": 2, "name": "Test" },
+    { "position": 2, "name": "Test" }
+  ],
+  "pre-task": []
+}

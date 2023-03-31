@@ -22,7 +22,7 @@ Screenshots used in SERPs taken from:
   - https://www.timeshifter.com/jet-lag/melatonin-for-jet-lag-type-dose-timing  (on 20.01.2023)  
   - https://www.sleepfoundation.org/travel-and-sleep/how-to-get-over-jet-lag  (on 20.01.2023)  
   
-- SERP Infedility (Links without a date came from the given data set (see above Marcos Fernández Pichel et al. (2023))):
+- SERP Infertility (Links without a date came from the given data set (see above Marcos Fernández Pichel et al. (2023))):
   - https://health.howstuffworks.com/wellness/food-nutrition/facts/antioxidant.htm   
   - https://www.healthline.com/health/subfertility  
   - https://www.cochrane.org/news/podcast-antioxidants-male-subfertility    
